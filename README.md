@@ -1,4 +1,3 @@
-# Give
 # College Feedback System
 
 ## Overview
